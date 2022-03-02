@@ -1,0 +1,6 @@
+michal,2900,
+,30,
+michal,1090,
+midsf,110,
+michal,1000,
+ktos,330,
